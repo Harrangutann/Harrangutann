@@ -1,11 +1,11 @@
 # About Me
 
-👋 Hello, I’m @iHarrrison, a Junior Software Engineer and a Final Year Computer Science student. I came into the industry via an IT Professional Apprenticeship in 2017,
-working on a helpdesk and moving into software development after succesfully completing the course. I went part time at my place of work and began my uni course
-in September 2021.
+👋 Hi, I'm @iHarrrison, an Automation Specialist with a passion for streamlining workflows through code. My primary language is Google Apps Script, but I also have a strong foundation in Java, JavaScript, Python, and C#.
 
-📙 I’m knowledgable in a range of languages; the main ones being Java, Javascript, Python and C#. My most recent project has been my final year product, which has been written in Python and integrates with Microsoft Azure. This can be found in my list of reposotories here on GitHub, and achieved me a grade of 83 for the dissertation project.
+🚀 My journey into tech began with an IT Professional Apprenticeship in 2017, where I transitioned from helpdesk support to software development. This led me to pursue a Computer Science degree, graduating with First Class Honours.
 
-👨‍🦰 My personal interests are playing the bass guitar, reading books, playing games and keeping up-to-date with the tech industry.
+💡 I'm going to try and get better at writing code outside of the workplace, but my proudest piece of software on my repo is the Groundskeeper Willie project. This was my final year project at university, where it achieved an 83.
 
-🐦 You can find my LinkedIn page [here](https://www.linkedin.com/in/harrison-dickens-689696151/)
+🎸 Outside of coding, I enjoy playing the bass guitar, diving into a good book, gaming, and staying current with the latest tech innovations.
+
+🔗 Connect with me on LinkedIn: [https://www.linkedin.com/in/harrison-dickens-689696151/](https://www.linkedin.com/in/harrison-dickens-689696151/)
