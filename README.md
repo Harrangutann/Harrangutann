@@ -1,6 +1,6 @@
 # About Me
 
-👋 Hi, I'm @iHarrrison, an Automation Specialist with a passion for streamlining workflows through code. My primary language is Google Apps Script, but I also have a strong foundation in Java, JavaScript, Python, and C#.
+👋 Hi, I'm @Harrangutann, an Automation Specialist with a passion for streamlining workflows through code. My primary language is Google Apps Script, but I also have a strong foundation in Java, JavaScript, Python, and C#.
 
 🚀 My journey into tech began with an IT Professional Apprenticeship in 2017, where I transitioned from helpdesk support to software development. This led me to pursue a Computer Science degree, graduating with First Class Honours.
 
